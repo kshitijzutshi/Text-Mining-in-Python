@@ -1,5 +1,8 @@
 Examples for text handling using python
 
+#!/usr/bin/env python# 
+-*- coding: utf-8 -*-
+
 text1="Hi my name is Maxwell edward Stark"
 text2=text1.split(' ')
 print (text2)
