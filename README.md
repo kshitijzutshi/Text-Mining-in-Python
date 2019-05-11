@@ -12,4 +12,6 @@
          s.islower()
          s.isupper()
          s.istitle()
+         s.isalpha() s.isdigit() s.isalnum()
+         
          ```
