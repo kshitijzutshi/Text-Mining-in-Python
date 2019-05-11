@@ -15,3 +15,10 @@
          s.isalpha() s.isdigit() s.isalnum()
          
          ```
+ - String operations
+   
+   ```
+   s.split() s.splitlines() s.join() s.upper() s.lower() s.titlecase()
+   
+   ```
+  **To remove white space characters from start of string use - s.strip() & to do so in the reverse way use- s.rstrip()**
