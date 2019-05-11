@@ -1,4 +1,4 @@
-## Examples for text handling using python
+Examples for text handling using python
 
 text1="Hi my name is Maxwell edward Stark"
 text2=text1.split(' ')
